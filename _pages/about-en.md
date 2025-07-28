@@ -35,30 +35,30 @@ I'm a third-year PhD candidate in School of Computer Science and Technology, Uni
 
 # Recent Publications
 
-- **Liyang He**, Chenglong Liu, Rui Li, et, al. Refining Sentence Embedding Model through Ranking Sentences Generation with Large Language Models. (ACL2025)
-- Rui Li, **Liyang He**, Qi Liu, et, al. UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation. (ACL2025)
-- Heng Yu, Junfeng Kang, Rui Li, Qi Liu, **Liyang He**, et al. CA-GAR: Context-Aware Alignment of LLM Generation for Document Retrieval. (ACL2025)
-- MGS3: A Multi-Granularity Self-Supervised Code Search Framework. Rui Li, Junfeng Kang, Qi Liu, **Liyang He**, et, al. (KDD2025)
-- A Simple yet Effective Retrieval-Augmented Generation Framework for the Meta KDD Cup 2024. **Liyang He**, Rui Li, et al. (KDD2024 workshop)
-- Optimizing Code Retrieval: High-Quality and Scalable Dataset Annotation through Large Language Models. Rui Li, Qi Liu, **Liyang He**, et al. (EMNLP2024)
-- One-bit Deep Hashing: Towards Resource-Efficient Hashing Model with Binary Neural Network. **Liyang He**, Zhenya Huang, Chenlong Liu, et al. (ACMMM24)
-- Bit-mask Robust Contrastive Knowledge Distillation for Unsupervised Semantic Hashing. **Liyang He**, Zhenya Huang, Jiayu Liu, et al. (WWW2024)
-- CONSIDER: Commonalities and Specialties Driven Multilingual Code Retrieval Framework. Rui Li, **Liyang He**, Qi Liu, et al. (AAAI2024)
-- Efficient similar exercise retrieval model based on unsupervised semantic hashing. Wei Tong, **Liyang He**, Rui Li, et al. (Journal of Computer Applications 2024)
-- An efficient and robust semantic hashing framework for similar text search. **Liyang He**, Zhenya Huang, Enhong Chen, et al. (TOIS2023).
+- **Liyang He**, Chenglong Liu, Rui Li, et al. "Refining Sentence Embedding Model through Ranking Sentences Generation with Large Language Models." *ACL 2025*.
+- Rui Li, **Liyang He**, Qi Liu, et al. "UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation." *ACL 2025*.
+- Heng Yu, Junfeng Kang, Rui Li, Qi Liu, **Liyang He**, et al. "CA-GAR: Context-Aware Alignment of LLM Generation for Document Retrieval." *ACL 2025*.
+- Rui Li, Junfeng Kang, Qi Liu, **Liyang He**, et al. "MGS3: A Multi-Granularity Self-Supervised Code Search Framework." *KDD 2025*.
+- **Liyang He\***, Rui Li\*, et al. "A Simple yet Effective Retrieval-Augmented Generation Framework for the Meta KDD Cup 2024." *KDD 2024 Workshop*.
+- Rui Li, Qi Liu, **Liyang He**, et al. "Optimizing Code Retrieval: High-Quality and Scalable Dataset Annotation through Large Language Models." *EMNLP 2024*.
+- **Liyang He**, Zhenya Huang, Chenlong Liu, et al. "One-bit Deep Hashing: Towards Resource-Efficient Hashing Model with Binary Neural Network." *ACM MM 2024*.
+- **Liyang He**, Zhenya Huang, Jiayu Liu, et al. "Bit-mask Robust Contrastive Knowledge Distillation for Unsupervised Semantic Hashing." *WWW 2024*.
+- Rui Li, **Liyang He**, Qi Liu, et al. "CONSIDER: Commonalities and Specialties Driven Multilingual Code Retrieval Framework." *AAAI 2024*.
+- Wei Tong, **Liyang He**, Rui Li, et al. "Efficient similar exercise retrieval model based on unsupervised semantic hashing." *Journal of Computer Applications 2024*.
+- **Liyang He**, Zhenya Huang, Enhong Chen, et al. "An efficient and robust semantic hashing framework for similar text search." *TOIS 2023*.
 
 <span class='anchor' id='-xshy'></span>
 
 # Conferences
-- 2024.11, The 32nd ACM International Conference on Multimedia, Melbourne, Australia. Poster</a>
-- 2024.07, The 30th China Multimedia 2024, Yinchuan, China. Visit </a>
-- 2024.05, The ACM on Web Conference 2024, Singapore, Poster </a>
-- 2023.11, The 29th China Conference on Information Retrieval, CCIR 2023, Beijing, China. Visit </a>
-- 2023.08, The 19th China Conference on Machine Learning, Beijing, China. Oral </a>
+- 2024.11, The 32nd ACM International Conference on Multimedia, Melbourne, Australia. Poster
+- 2024.07, The 30th China Multimedia 2024, Yinchuan, China. Visit
+- 2024.05, The ACM on Web Conference 2024, Singapore, Poster
+- 2023.11, The 29th China Conference on Information Retrieval, CCIR 2023, Beijing, China. Visit
+- 2023.08, The 19th China Conference on Machine Learning, Beijing, China. Oral
 
 <span class='anchor' id='-gzsx'></span>
 
 # Internships
-- *2025.06 - present*, Tencent, Shenzhen</a>
-- *2022.08 - 2023.01*, National Education Examinations Authority, Beijing</a>
-- *2019.09 - 2020.06*, Iflytek Co., Ltd., Anhui, Hefei</a> 
+- *2025.06 - present*, Tencent, Shenzhen
+- *2022.08 - 2023.01*, National Education Examinations Authority, Beijing
+- *2019.09 - 2020.06*, Iflytek Co., Ltd., Anhui, Hefei
