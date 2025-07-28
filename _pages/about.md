@@ -37,17 +37,17 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 近三年学术论文
-- **何理扬**, Chenglong Liu, Rui Li, et al. "Refining Sentence Embedding Model through Ranking Sentences Generation with Large Language Models." *ACL 2025*.
-- Rui Li, **何理扬**, Qi Liu, et al. "UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation." *ACL 2025*.
-- Heng Yu, Junfeng Kang, Rui Li, Qi Liu, **何理扬**, et al. "CA-GAR: Context-Aware Alignment of LLM Generation for Document Retrieval." *ACL 2025*.
-- Rui Li, Junfeng Kang, Qi Liu, **何理扬**, et al. "MGS3: A Multi-Granularity Self-Supervised Code Search Framework." *KDD 2025*.
-- **何理扬\***, Rui Li\*, et al. "A Simple yet Effective Retrieval-Augmented Generation Framework for the Meta KDD Cup 2024." *KDD 2024 Workshop*.
-- Rui Li, Qi Liu, **何理扬**, et al. "Optimizing Code Retrieval: High-Quality and Scalable Dataset Annotation through Large Language Models." *EMNLP 2024*.
-- **何理扬**, Zhenya Huang, Chenlong Liu, et al. "One-bit Deep Hashing: Towards Resource-Efficient Hashing Model with Binary Neural Network." *ACM MM 2024*.
-- **何理扬**, Zhenya Huang, Jiayu Liu, et al. "Bit-mask Robust Contrastive Knowledge Distillation for Unsupervised Semantic Hashing." *WWW 2024*.
-- Rui Li, **何理扬**, Qi Liu, et al. "CONSIDER: Commonalities and Specialties Driven Multilingual Code Retrieval Framework." *AAAI 2024*.
-- Wei Tong, **何理扬**, Rui Li, et al. "Efficient similar exercise retrieval model based on unsupervised semantic hashing." *Journal of Computer Applications 2024*.
-- **何理扬**, Zhenya Huang, Enhong Chen, et al. "An efficient and robust semantic hashing framework for similar text search." *TOIS 2023*.
+- **Liyang He**, Chenglong Liu, Rui Li, et al. "Refining Sentence Embedding Model through Ranking Sentences Generation with Large Language Models." *ACL 2025*.
+- Rui Li, **Liyang He**, Qi Liu, et al. "UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation." *ACL 2025*.
+- Heng Yu, Junfeng Kang, Rui Li, Qi Liu, **Liyang He**, et al. "CA-GAR: Context-Aware Alignment of LLM Generation for Document Retrieval." *ACL 2025*.
+- Rui Li, Junfeng Kang, Qi Liu, **Liyang He**, et al. "MGS3: A Multi-Granularity Self-Supervised Code Search Framework." *KDD 2025*.
+- **Liyang He\***, Rui Li\*, et al. "A Simple yet Effective Retrieval-Augmented Generation Framework for the Meta KDD Cup 2024." *KDD 2024 Workshop*.
+- Rui Li, Qi Liu, **Liyang He**, et al. "Optimizing Code Retrieval: High-Quality and Scalable Dataset Annotation through Large Language Models." *EMNLP 2024*.
+- **Liyang He**, Zhenya Huang, Chenlong Liu, et al. "One-bit Deep Hashing: Towards Resource-Efficient Hashing Model with Binary Neural Network." *ACM MM 2024*.
+- **Liyang He**, Zhenya Huang, Jiayu Liu, et al. "Bit-mask Robust Contrastive Knowledge Distillation for Unsupervised Semantic Hashing." *WWW 2024*.
+- Rui Li, **Liyang He**, Qi Liu, et al. "CONSIDER: Commonalities and Specialties Driven Multilingual Code Retrieval Framework." *AAAI 2024*.
+- Wei Tong, **Liyang He**, Rui Li, et al. "Efficient similar exercise retrieval model based on unsupervised semantic hashing." *Journal of Computer Applications 2024*.
+- **Liyang He**, Zhenya Huang, Enhong Chen, et al. "An efficient and robust semantic hashing framework for similar text search." *TOIS 2023*.
 
 <span class='anchor' id='-xshy'></span>
 
