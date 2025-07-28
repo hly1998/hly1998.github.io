@@ -15,43 +15,45 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# About Me
+# 关于我
 <span class='anchor' id='about-me'></span>
 
-I’m a third-year PhD candidate in School of Computer Science and Technology, University of Science and Technology of China (USTC), and a member of the State Key Laboratory of Cognitive Intelligence, supervised by Prof. Enhong Chen (http://staff.ustc.edu.cn/~cheneh/).
+我是中国科学技术大学（USTC）计算机科学与技术学院的三年级博士生，认知智能国家重点实验室成员，师从陈恩红教授（http://staff.ustc.edu.cn/~cheneh/）。主要从事信息检索、高效表征学习以及检索增强生成方面的研究。近年来，在数据挖掘、自然语言处理、人工智能等领域的重要国际学术期刊和会议TOIS、KDD、WWW、ACL、EMNLP、AAAI、ACMMM等发表/接收论文20余篇。申请/授权国家发明专利5项。曾获得博士研究生国家奖学金、杨元庆奖学金等荣誉， 入选2025年腾讯犀牛鸟精英人才计划。
 
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
-**Research Interests:**
-- Information Retrieval
-- Efficiency Representation Learning
-- Large Language Model for Retrieval
+**研究兴趣：**
+- 信息检索
+- 高效表示学习
+- 检索增强生成
 
 
 <span class='anchor' id='-xl'></span>
 
-# Educations
-- *2020.06 - present*, <a href="https://en.ustc.edu.cn/">Ph.D in School of Computer Science and Technology</a>
-- *2016.09 - 2020.06*, <a href="https://en.ustc.edu.cn/">B.S in School of Computer Science and Technology</a>
+# 教育经历
+- *2020.06 - 至今*, <a href="https://en.ustc.edu.cn/">中国科学技术大学计算机科学与技术学院 博士</a>
+- *2016.09 - 2020.06*, <a href="https://en.ustc.edu.cn/">中国科学技术大学计算机科学与技术学院 学士</a>
  
 <span class='anchor' id='-lwzl'></span>
 
-# Publications
-
-- MGS3: A Multi-Granularity Self-Supervised Code Search Framework. Rui Li, Junfeng Kang, Qi Liu, **Liyang He** et, al. (Accepted in KDD25)
-- A Simple yet Effective Retrieval-Augmented Generation Framework for the Meta KDD Cup 2024. **Liyang He**, Rui Li, et al. (KDD2024)
+# 近三年学术论文
+- **Liyang He**, Chenglong Liu, Rui Li, et, al. Refining Sentence Embedding Model through Ranking Sentences Generation with Large Language Models.
+(ACL2025)
+- Rui Li, **Liyang He**, Qi Liu, et, al. UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation. (ACL2025)
+- Heng Yu, Junfeng Kang, Rui Li, Qi Liu, **Liyang He**, et al. CA-GAR: Context-Aware Alignment of
+LLM Generation for Document Retrieval. (ACL2025)
+- MGS3: A Multi-Granularity Self-Supervised Code Search Framework. Rui Li, Junfeng Kang, Qi Liu, **Liyang He**, et, al. (KDD2025)
+- A Simple yet Effective Retrieval-Augmented Generation Framework for the Meta KDD Cup 2024. **Liyang He**, Rui Li, et al. (KDD2024 workshop)
 - Optimizing Code Retrieval: High-Quality and Scalable Dataset Annotation through Large Language Models. Rui Li, Qi Liu, **Liyang He**, et al. (EMNLP2024)
 - One-bit Deep Hashing: Towards Resource-Efficient Hashing Model with Binary Neural Network. **Liyang He**, Zhenya Huang, Chenlong Liu, et al. (ACMMM24)
 - Bit-mask Robust Contrastive Knowledge Distillation for Unsupervised Semantic Hashing. **Liyang He**, Zhenya Huang, Jiayu Liu, et al. (WWW2024)
 - CONSIDER: Commonalities and Specialties Driven Multilingual Code Retrieval Framework. Rui Li, **Liyang He**, Qi Liu, et al. (AAAI2024)
 - Efficient similar exercise retrieval model based on unsupervised semantic hashing. Wei Tong, **Liyang He**, Rui Li, et al. (Journal of Computer Applications 2024)
 - An efficient and robust semantic hashing framework for similar text search. **Liyang He**, Zhenya Huang, Enhong Chen, et al. (TOIS2023).
-- A Survey on Text Analysis Methods and Applications for Educational Questions. Zhenya Huang, Qi Liu, Enhong Chen, Xin Lin, **Liyang He**. (Journal of Chinese Information Processing 2022)
-- Exploiting knowledge hierarchy for finding similar exercises in online education systems. Tong Wei, Tong Shiwei, Hunag Wei, **Liyang He**, et al. (ICDM2020).
 
 <span class='anchor' id='-xshy'></span>
 
-# Conference
+# 学术会议
 - 2024.11, The 32nd ACM International Conference on Multimedia, Melbourne, Australia. Poster</a>
 - 2024.07, The 30th China Multimedia 2024, Yinchuan, China. Visit </a>
 - 2024.05, The ACM on Web Conference 2024, Singapore, Poster </a>
@@ -60,13 +62,8 @@ I’m a third-year PhD candidate in School of Computer Science and Technology, U
 
 <span class='anchor' id='-gzsx'></span>
 
-# Internships
-- *2022.08 - 2023.01*, National Education Examinations Authority. Beijing</a>
-- *2019.09 - 2020.06*, Iflytek Co., Ltd. Anhui, Hefei</a>
+# 实习经历
+- *2025.06 - 现在*, 腾讯，深圳</a>
+- *2022.08 - 2023.01*, 教育部教育考试院，北京</a>
+- *2019.09 - 2020.06*, 科大讯飞股份有限公司，安徽合肥</a>
 
-<!-- <span class='anchor' id='-ryjx'></span>
-
-# 🏅 Honors and Awards
-- *2024* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2024* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖` -->

@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/en/#about-me"
+
+  - title: "Educations"
+    url: "/en/#-xl"
+
+  - title: "Publications"
+    url: "/en/#-lwzl"
+
+  - title: "Conferences"
+    url: "/en/#-xshy"
+
+  - title: "Internships"
+    url: "/en/#-gzsx" 

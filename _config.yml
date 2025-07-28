@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Liyang He"
-description              : "This is the academic homepage of Liyang He"
+title                    : "何理扬 (Liyang He)"
+description              : "何理扬的学术主页"
 repository               : "hly1998/hly1998.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,13 +21,13 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 
 # Site Author
 author:
-  name             : "Liyang He"
+  name             : "何理扬 (Liyang He)"
   avatar           : "images/myphoto.jpeg"
-  bio              : "University of Science and Technology of China (USTC)"
-  location         : "Hefei Anhui"
+  bio              : "中国科学技术大学（USTC）"
+  location         : "安徽合肥"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=0duMugcAAAAJ&hl=zh-CN"
   email            : "heliyang@mail.ustc.edu.cn"
   researchgate     : 
   uri              : 
