@@ -21,8 +21,8 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 
 # Site Author
 author:
-  name             : "何理扬 (Liyang He)"
-  avatar           : "images/myphoto.jpeg"
+  name             : "何理扬"
+  avatar           : "/images/myphoto.jpeg"
   bio              : "中国科学技术大学（USTC）"
   location         : "安徽合肥"
   employer         : #"Hefei General Machinery Research Institute"

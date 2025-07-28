@@ -54,16 +54,16 @@ LLM Generation for Document Retrieval. (ACL2025)
 <span class='anchor' id='-xshy'></span>
 
 # 学术会议
-- 2024.11, The 32nd ACM International Conference on Multimedia, Melbourne, Australia. Poster</a>
-- 2024.07, The 30th China Multimedia 2024, Yinchuan, China. Visit </a>
-- 2024.05, The ACM on Web Conference 2024, Singapore, Poster </a>
-- 2023.11, The 29th China Conference on Information Retrieval, CCIR 2023, Beijing, China. Visit </a>
-- 2023.08, The 19th China Conference on Machine Learning, Beijing, China. Oral </a>
+- 2024.11, The 32nd ACM International Conference on Multimedia, Melbourne, Australia. Poster
+- 2024.07, The 30th China Multimedia 2024, Yinchuan, China. Visit
+- 2024.05, The ACM on Web Conference 2024, Singapore, Poster
+- 2023.11, The 29th China Conference on Information Retrieval, CCIR 2023, Beijing, China. Visit
+- 2023.08, The 19th China Conference on Machine Learning, Beijing, China. Oral
 
 <span class='anchor' id='-gzsx'></span>
 
 # 实习经历
-- *2025.06 - 现在*, 腾讯，深圳</a>
-- *2022.08 - 2023.01*, 教育部教育考试院，北京</a>
-- *2019.09 - 2020.06*, 科大讯飞股份有限公司，安徽合肥</a>
+- *2025.06 - 现在*, 腾讯，深圳
+- *2022.08 - 2023.01*, 教育部教育考试院，北京
+- *2019.09 - 2020.06*, 科大讯飞股份有限公司，安徽合肥
 
